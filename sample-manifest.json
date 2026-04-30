@@ -1,12 +1,12 @@
 {
-  "export_job_id": "e2c5fbce-6292-4b4d-8435-e43aa36d0363",
+  "export_job_id": "c7c396bc-adb8-4f96-ac20-45eda210f439",
   "id_short": 680481,
-  "published_at": "2026-04-23T19:24:38Z",
+  "published_at": "2026-04-30T19:24:49Z",
   "repo_name": "all-restaurants-in-san-francisco-california-us-sample-680481",
   "sample_asset_name": "beamstation_680481_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/680481/beamstation_680481_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 221,
-  "sample_sha256": "84cf6b42d72d999c68f90ea5d0d8ba421d32e90ebf36486db3204d83636583ce",
-  "sample_size_bytes": 811106,
-  "total_records": 2219
+  "sample_records": 365,
+  "sample_sha256": "aefc90bb271a263333990a9e4c4947b9adacb0002b92bbfb4c691390fa0dd07a",
+  "sample_size_bytes": 1158487,
+  "total_records": 3656
 }
