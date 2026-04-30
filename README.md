@@ -1,6 +1,6 @@
 # All Restaurants in San Francisco, California, US
 
-> Free BeamStation sample export with 221 rows and masked direct-contact fields.
+> Free BeamStation sample export with 365 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `680481` |
 | Location | San Francisco |
 | Category | Restaurants |
-| Full dataset size | 2,219 records |
-| Free sample size | 221 records (9.96%) |
-| Last export | 2026-04-23T12:25:47.021452+00:00 |
+| Full dataset size | 3,656 records |
+| Free sample size | 365 records (9.98%) |
+| Last export | 2026-04-30T12:58:25.892536+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-san-francisco-california-us-sample-680481/releases/download/sample-latest/beamstation_680481_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
